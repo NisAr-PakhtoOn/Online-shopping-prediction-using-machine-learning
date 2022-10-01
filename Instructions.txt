@@ -1,0 +1,10 @@
+Open cmd in this directory
+
+type this command and press enter (python shopping.py shopping.csv) 
+
+
+you will get this results
+Correct: 4088
+Incorrect: 844
+True Positive Rate: 41.02%
+True Negative Rate: 90.55%
